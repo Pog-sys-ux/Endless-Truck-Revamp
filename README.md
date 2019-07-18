@@ -1,2 +1,3 @@
-# Endless-Truck-Revamp
-Famobi's Endless Truck... But Revamped
+# Endless Truck v2.0
+
+This a better version
